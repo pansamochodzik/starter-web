@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Requests for ewview.
 
 ### Copyright
 
-2020 Git.training.
+2020 Git.training. All rights resercved.
