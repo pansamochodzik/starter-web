@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This  is a simple website project for showing how to use Git and Github together.
-Add new fucking line.
+Add new fucking line, then more fucking changes blah blah blah.
 
 ## Introduction
 
